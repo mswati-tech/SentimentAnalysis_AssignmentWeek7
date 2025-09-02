@@ -75,6 +75,9 @@ Word Cloud: Highlights most frequent words in the review dataset
 **Folder Structure**
 bluetooth-reviews-sentiment/
 │
+
 ├── Bluetooth-speakers.csv   # Dataset
+
 ├── 25August2025.py    # Python script
+
 ├── README.md                # Project description

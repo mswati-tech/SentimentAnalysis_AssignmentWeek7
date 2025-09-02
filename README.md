@@ -62,11 +62,11 @@ High precision for Positive class, but underpredicts Neutral and Negative
 
 **Conclusion:** Logistic Regression outperforms SVC on this dataset due to better handling of minority classes and more balanced predictions.
 
-Visualization
+**Visualization:**
 
-Sentiment Distribution: Bar chart showing counts of Positive, Negative, and Neutral reviews
+**Sentiment Distribution:** Bar chart showing counts of Positive, Negative, and Neutral reviews
 
-Word Cloud: Highlights most frequent words in the review dataset
+**Word Cloud:** Highlights most frequent words in the review dataset
 
 **Code script:**
 
